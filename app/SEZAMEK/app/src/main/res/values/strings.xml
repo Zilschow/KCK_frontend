@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SEZAMEK</string>
+
+
+    <string name="openNavDrawer">Nav Drawer open</string>
+    <string name="closeNavDrawer">Nav Drawer close</string>
+</resources>
